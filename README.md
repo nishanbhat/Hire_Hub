@@ -79,9 +79,5 @@ Start the server
 
 ## Running Tests
 
-To run tests, run the following command
 
-```bash
-  npx jest
-```
 
